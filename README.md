@@ -11,6 +11,7 @@ Component Hierarchy
 Major Impact
 
 Implemented AXIOS for HTTP request from Node.js and design UI using AntDesign;
+
 Deployed the service to AWS to enable the tracking of 1000+ satellite.
 
 
