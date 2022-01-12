@@ -1,4 +1,4 @@
-# This project is to designed a webpage to visualize and track satellite geo-location in real-time using ReactJS and D3;
+This project is to designed a webpage to visualize and track satellite geo-location in real-time using ReactJS and D3;
 
 # User Interface
 
